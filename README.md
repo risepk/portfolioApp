@@ -4,7 +4,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Check the Demo https://github.com/risepk/portfolioApp/blob/main/portfolio_screen_demo.mp4
+
+https://github.com/risepk/portfolioApp/blob/main/portfolio_screen_demo.mp4
 
 This project is a starting point for a Flutter application.
 
