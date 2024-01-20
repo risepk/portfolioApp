@@ -1,16 +1,16 @@
 
-
-https://github.com/risepk/portfolioApp/assets/24992385/2cd0d0e6-2fc2-4c5e-b786-de71844c8565
-
 # Flutter Portfolio App Assignment No. 1
 
 # Submitted By Faiz Muhammad Khan to Trainer Muhammad Abid Saib
 
 A new Flutter project.
 
-## Check the Demo https://github.com/risepk/portfolioApp/blob/main/portfolio_screen_demo.mp4
+## Check the Demo Below
 
-https://github.com/risepk/portfolioApp/blob/main/portfolio_screen_demo.mp4
+
+
+https://github.com/risepk/portfolioApp/assets/24992385/2cd0d0e6-2fc2-4c5e-b786-de71844c8565
+
 
 This project is a starting point for a Flutter application.
 
